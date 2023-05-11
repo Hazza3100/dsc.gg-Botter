@@ -1,11 +1,9 @@
-Tool to bot your dsc.gg click score
+ARCHIVED 
 
-THIS TOOL IS FOR DEVS SO NO SUPPORT
+Tool to bot your dsc.gg click score
 
 pip install requests
 
 <img src="./top1word.jpg">
 <img src="./b4.jpg">
 <img src="./after.jpg">
-
-join https://discord.gg/catcha
